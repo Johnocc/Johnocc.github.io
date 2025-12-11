@@ -1,9 +1,9 @@
-#
+# 
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Won, Jongduk
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -18,11 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: noc5744@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: Johnocc.github.io
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
