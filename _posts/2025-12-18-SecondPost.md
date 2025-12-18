@@ -3,8 +3,8 @@ layout: post
 title: 탐색과 객체지향
 ---
 
-1️⃣ 탐색(Search)의 기본 개념
 
+1️⃣ 탐색(Search)의 기본 개념
 
 초기 단계 (Initial State)
 
